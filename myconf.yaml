@@ -1,0 +1,4 @@
+:AWS_access_key_id: 'ABCDEFGHIJKLMNOPQRST'
+:AWS_secret_key: 'abcdefghijklmnopqrstuvwxyz0123456789+ABC'
+:associate_tag: 'abcdefghijklm-00'
+:country: :jp
